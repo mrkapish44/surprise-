@@ -1,4 +1,4 @@
-const text = "You Mean A Lot To Me ❤️";
+const text = "🎂 🍰🧁🎂 🍰🧁🎂 🍰🧁🎂 🍰🧁🎂 🍰🧁🎂 🍰🧁🎂 🍰🧁";
 
 let i = 0;
 
